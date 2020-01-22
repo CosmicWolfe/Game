@@ -1,2 +1,2 @@
 # Game
-A game in progress. 
+A game in progress. Details incoming.
