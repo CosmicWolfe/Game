@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Floor
+  - Obstacle
+  - Character
   - 
   - 
   - 
@@ -40,4 +40,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2807757387
+    locked: 0
+  - name: Obstacle
+    uniqueID: 1566688251
+    locked: 0
+  - name: Character
+    uniqueID: 2365764909
     locked: 0
